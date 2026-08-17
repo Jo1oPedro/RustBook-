@@ -1,0 +1,6 @@
+[package]
+name = "S02_A04_TUPLAS"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "S02_A07_CRUZAMENTO"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

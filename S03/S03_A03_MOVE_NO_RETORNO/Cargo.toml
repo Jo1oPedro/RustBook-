@@ -1,0 +1,6 @@
+[package]
+name = "S03_A03_MOVE_NO_RETORNO"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,19 @@
+#[derive(Debug)]
+struct Color(i32, i32, i32);
+
+#[derive(Debug)]
+struct Point(i32, i32, i32);
+
+fn main() {
+    let black = Color(0, 0, 0);
+    let origin = Point(0, 0, 0);
+
+    println!("origem: {:?}", origin);
+
+    let novo: Color;
+    //novo = origin;
+
+
+
+    println!("Hello, world!");
+}
